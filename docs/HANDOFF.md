@@ -2,7 +2,7 @@
 
 > Read SPEC.md first — it's the full design and tech spec.
 > This file is the kickoff: how to stand up the repo and build it phase by phase.
-> Home repo: `diablo-act1` (C:\projects\diablo-act1).
+> Home repo: `diablo-act1` (C:\projects\games\diablo-act1).
 
 > **Progress (as built, 2026-06-23):** <one-line status — what's runnable, what's next.>
 
